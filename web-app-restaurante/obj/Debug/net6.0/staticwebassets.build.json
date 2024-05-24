@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M1DFqoGSJyFgR6EnaorG6jdLDoTJ8IjTpRjpTANI6Qs=",
+  "Source": "web-app-restaurante",
+  "BasePath": "_content/web-app-restaurante",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
